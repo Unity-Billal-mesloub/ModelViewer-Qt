@@ -32,7 +32,7 @@ Capped Multiple Section View
 ![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt/blob/main/screenshots/Slide7.PNG)
 
 Multiple Projection Views
-![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer/blob/main/screenshots/Screenshot%202021-07-24%20223138.jpg)
+![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt/blob/main/screenshots/Screenshot%202021-07-24%20223138.jpg)
 
 Building the Code:
 Prerequisites
