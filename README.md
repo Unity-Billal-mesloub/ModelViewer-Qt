@@ -11,7 +11,7 @@ Rendering Modes
 ![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt/blob/main/screenshots/Slide1.PNG)
 
 Advanced Rendering Modes
-![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer/blob/main/screenshots/Slide2.PNG)
+![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt/blob/main/screenshots/Slide2.PNG)
 
 OBJ File Rendering with Textures and Colors
 ![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer/blob/main/screenshots/Slide3.PNG)
