@@ -17,7 +17,7 @@ OBJ File Rendering with Textures and Colors
 ![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt/blob/main/screenshots/Slide3.PNG)
 
 Transparency and Reflections
-![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer/blob/main/screenshots/Screenshot%202021-08-06%20150032.jpg)
+![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt/blob/main/screenshots/Screenshot%202021-08-06%20150032.jpg)
 
 Material Rendering with Texture Based PBR
 ![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer/blob/main/screenshots/Slide4.PNG)
