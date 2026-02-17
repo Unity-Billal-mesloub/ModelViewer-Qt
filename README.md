@@ -20,7 +20,7 @@ Transparency and Reflections
 ![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt/blob/main/screenshots/Screenshot%202021-08-06%20150032.jpg)
 
 Material Rendering with Texture Based PBR
-![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer/blob/main/screenshots/Slide4.PNG)
+![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer-Qt/blob/main/screenshots/Slide4.PNG)
 
 Realistic Rendering with Skybox Environment
 ![ScreenShot](https://github.com/Unity-Billal-mesloub/ModelViewer/blob/main/screenshots/Slide5.PNG)
